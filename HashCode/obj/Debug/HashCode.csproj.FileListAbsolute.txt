@@ -1,0 +1,2 @@
+C:\Users\yabuk\Desktop\howto\HashCode\HashCode\obj\Debug\HashCode.csprojResolveAssemblyReference.cache
+C:\Users\yabuk\Desktop\howto\HashCode\HashCode\obj\Debug\HashCode.csproj.CoreCompileInputs.cache

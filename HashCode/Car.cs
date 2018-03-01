@@ -8,9 +8,20 @@ namespace HashCode
 {
     class Car
     {
-        private float[ , ] coord;
+        private int[ , ] coord;
 
-        public float[,] Coord { get; set; }
+        public int[,] Coord
+        {
+            get
+            {
+                return this.coord;
+            }
+            set
+            {
+                this.coord = value;
+            }
+        }
+
 
     }
 }
