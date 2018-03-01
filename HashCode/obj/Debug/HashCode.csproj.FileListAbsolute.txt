@@ -1,2 +1,9 @@
 C:\Users\yabuk\Desktop\howto\HashCode\HashCode\obj\Debug\HashCode.csprojResolveAssemblyReference.cache
 C:\Users\yabuk\Desktop\howto\HashCode\HashCode\obj\Debug\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\obj\Debug\HashCode.csprojResolveAssemblyReference.cache
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\obj\Debug\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\bin\Debug\HashCode.exe.config
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\bin\Debug\HashCode.exe
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\bin\Debug\HashCode.pdb
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\obj\Debug\HashCode.exe
+C:\Users\VnHP\Desktop\HashCode\New folder\HashCode\HashCode\obj\Debug\HashCode.pdb
